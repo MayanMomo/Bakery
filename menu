@@ -1,0 +1,221 @@
+<!DOCTYPE html> 
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu | Padaria Branco Quente</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;600&display=swap');
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+        }
+        
+        .playfair {
+            font-family: 'Playfair Display', serif;
+        }
+        
+        .menu-item:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .transition-slow {
+            transition: all 0.3s ease-in-out;
+        }
+    </style>
+</head>
+<body class="bg-amber-50">
+    <!-- Navegação -->
+    <nav class="bg-white shadow-md sticky top-0 z-50">
+        <div class="container mx-auto px-6 py-3">
+            <div class="flex justify-between items-center">
+                <div class="text-2xl font-bold playfair text-amber-800">Padaria Branco Quente</div>
+                <div class="hidden md:flex space-x-8">
+                    <a href="index.html" class="text-gray-600 hover:text-amber-800 transition-slow">Início</a>
+                    <a href="menu.html" class="text-amber-800 font-medium hover:text-amber-600 transition-slow">Menu</a>
+                    <a href="about.html" class="text-gray-600 hover:text-amber-800 transition-slow">Sobre Nós</a>
+                    <a href="contact.html" class="text-gray-600 hover:text-amber-800 transition-slow">Contacto</a>
+                </div>
+                <button class="md:hidden focus:outline-none">
+                    <i data-feather="menu" class="text-amber-800"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Cabeçalho -->
+    <section class="py-16 bg-amber-800 text-white" data-aos="fade-down">
+        <div class="container mx-auto px-6 text-center">
+            <h1 class="playfair text-4xl md:text-5xl font-bold mb-4">O Nosso Menu</h1>
+            <p class="text-xl max-w-2xl mx-auto">Produtos de padaria tradicionais portugueses feitos com amor e ingredientes locais</p>
+        </div>
+    </section>
+
+    <!-- Secção Pães -->
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-12" data-aos="fade-up">
+                <h2 class="playfair text-3xl font-bold text-amber-800 mb-2">Pães</h2>
+                <div class="w-20 h-1 bg-amber-600 mx-auto"></div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Pão de Monchique -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-right">
+                    <img src="https://images.unsplash.com/photo-1579634475289-33cf9a2a9f88?auto=format&fit=crop&w=800&q=80" alt="Pão de Monchique rústico" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão de Monchique</h3>
+                    <p class="text-gray-600 mb-4">O nosso pão de forno a lenha com crosta estaladiça e miolo fofo.</p>
+                    <p class="font-bold text-amber-700">€2,50</p>
+                </div>
+                
+                <!-- Pão Alentejano -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-up">
+                    <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80" alt="Pão alentejano redondo" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão Alentejano</h3>
+                    <p class="text-gray-600 mb-4">Pão redondo tradicional do Alentejo, com miolo denso e sabor autêntico.</p>
+                    <p class="font-bold text-amber-700">€2,80</p>
+                </div>
+                
+                <!-- Pão de Centeio -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-left">
+                    <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80" alt="Pão de centeio escuro" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão de Centeio</h3>
+                    <p class="text-gray-600 mb-4">Pão de centeio robusto, com sabor intenso e textura consistente.</p>
+                    <p class="font-bold text-amber-700">€3,00</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Secção Pastéis -->
+    <section class="py-12 bg-amber-50">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-12" data-aos="fade-up">
+                <h2 class="playfair text-3xl font-bold text-amber-800 mb-2">Pastéis</h2>
+                <div class="w-20 h-1 bg-amber-600 mx-auto"></div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Pastel de Nata -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-right">
+                    <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484e0?auto=format&fit=crop&w=800&q=80" alt="Pastéis de nata frescos" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pastel de Nata</h3>
+                    <p class="text-gray-600 mb-4">Tartes de nata cremosas com massa folhada crocante e toque de canela.</p>
+                    <p class="font-bold text-amber-700">€1,20 cada</p>
+                </div>
+                
+                <!-- Bolo de Arroz -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-up">
+                    <img src="https://images.unsplash.com/photo-1608198092931-c52b06f25f13?auto=format&fit=crop&w=800&q=80" alt="Bolos de arroz tradicionais" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bolo de Arroz</h3>
+                    <p class="text-gray-600 mb-4">Queques de farinha de arroz com textura leve e sabor delicado.</p>
+                    <p class="font-bold text-amber-700">€1,00 cada</p>
+                </div>
+                
+                <!-- Bolo de Mel -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-left">
+                    <img src="https://images.unsplash.com/photo-1608198092931-c52b06f25f13?auto=format&fit=crop&w=800&q=80" alt="Bolo de mel algarvio" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bolo de Mel</h3>
+                    <p class="text-gray-600 mb-4">Bolo de mel do Algarve, enriquecido com mel local e amêndoas.</p>
+                    <p class="font-bold text-amber-700">€3,50 (fatia)</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Secção Bebidas -->
+    <section class="py-12 bg-white">
+        <div class="container mx-auto px-6">
+            <div class="text-center mb-12" data-aos="fade-up">
+                <h2 class="playfair text-3xl font-bold text-amber-800 mb-2">Bebidas</h2>
+                <div class="w-20 h-1 bg-amber-600 mx-auto"></div>
+            </div>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <!-- Bica -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-right">
+                    <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80" alt="Bica (expresso português)" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bica (Expresso)</h3>
+                    <p class="text-gray-600 mb-4">Expresso intenso ao estilo português, feito com grãos selecionados.</p>
+                    <p class="font-bold text-amber-700">€0,80</p>
+                </div>
+                
+                <!-- Galão -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-up">
+                    <img src="https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80" alt="Galão em copo alto" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Galão</h3>
+                    <p class="text-gray-600 mb-4">Café com leite servido em copo alto, perfeito para acompanhar um pastel.</p>
+                    <p class="font-bold text-amber-700">€1,50</p>
+                </div>
+                
+                <!-- Sumo de Laranja -->
+                <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-left">
+                    <img src="https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80" alt="Sumo de laranja fresco" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Sumo de Laranja</h3>
+                    <p class="text-gray-600 mb-4">Sumo natural de laranjas frescas do Algarve, espremidas na hora.</p>
+                    <p class="font-bold text-amber-700">€2,00</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Rodapé -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="container mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div class="mb-8 md:mb-0">
+                    <h3 class="playfair text-xl font-bold mb-4">Padaria Branco Quente</h3>
+                    <p class="text-gray-400">Padaria tradicional portuguesa em Monchique desde 1987.</p>
+                </div>
+                
+                <div>
+                    <h4 class="font-bold mb-4">Navegação</h4>
+                    <ul class="space-y-2">
+                        <li><a href="index.html" class="text-gray-400 hover:text-white transition-slow">Início</a></li>
+                        <li><a href="menu.html" class="text-gray-400 hover:text-white transition-slow">Menu</a></li>
+                        <li><a href="about.html" class="text-gray-400 hover:text-white transition-slow">Sobre Nós</a></li>
+                        <li><a href="contact.html" class="text-gray-400 hover:text-white transition-slow">Contacto</a></li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h4 class="font-bold mb-4">Horário</h4>
+                    <ul class="text-gray-400 space-y-2">
+                        <li>Segunda - Sexta: 6h - 19h</li>
+                        <li>Sábado: 6h - 17h</li>
+                        <li>Domingo: 7h - 14h</li>
+                    </ul>
+                </div>
+                
+                <div>
+                    <h4 class="font-bold mb-4">Siga-nos</h4>
+                    <div class="flex space-x-4">
+                        <a href="#" class="text-gray-400 hover:text-white transition-slow"><i data-feather="facebook" class="w-5 h-5"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-slow"><i data-feather="instagram" class="w-5 h-5"></i></a>
+                        <a href="#" class="text-gray-400 hover:text-white transition-slow"><i data-feather="twitter" class="w-5 h-5"></i></a>
+                    </div>
+                    <p class="text-gray-400 mt-4">Rua da Padaria 12<br>Monchique, Portugal</p>
+                </div>
+            </div>
+            
+            <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+                <p>&copy; 2023 Padaria Branco Quente. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        AOS.init({
+            duration: 1000,
+            easing: 'ease-in-out',
+            once: true
+        });
+        feather.replace();
+    </script>
+</body>
+</html>
