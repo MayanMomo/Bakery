@@ -25,7 +25,7 @@
         }
         
         .about-hero {
-            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://images.unsplash.com/photo-1542831371-d531d36971e6');
+            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://plus.unsplash.com/premium_photo-1675604274513-76ac577670d6?q=80&w=1170&auto=format&fit=crop&w=1920&q=80');
             background-size: cover;
             background-position: center;
         }
