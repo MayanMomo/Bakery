@@ -67,7 +67,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Pão de Monchique -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-right">
-                    <img src="https://images.unsplash.com/photo-1579634475289-33cf9a2a9f88?auto=format&fit=crop&w=800&q=80" alt="Pão de Monchique rústico" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://images.unsplash.com/photo-1744217083335-8b57ec3826ac?q=80&w=1170&?auto=format&fit=crop&w=800&q=80" alt="Pão de Monchique rústico" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão de Monchique</h3>
                     <p class="text-gray-600 mb-4">O nosso pão de forno a lenha com crosta estaladiça e miolo fofo.</p>
                     <p class="font-bold text-amber-700">€2,50</p>
@@ -75,7 +75,7 @@
                 
                 <!-- Pão Alentejano -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-up">
-                    <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80" alt="Pão alentejano redondo" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://images.unsplash.com/photo-1649019050848-f39546aba28a?q=80&w=1025&?auto=format&fit=crop&w=800&q=80" alt="Pão alentejano redondo" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão Alentejano</h3>
                     <p class="text-gray-600 mb-4">Pão redondo tradicional do Alentejo, com miolo denso e sabor autêntico.</p>
                     <p class="font-bold text-amber-700">€2,80</p>
@@ -83,7 +83,7 @@
                 
                 <!-- Pão de Centeio -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-left">
-                    <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80" alt="Pão de centeio escuro" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://plus.unsplash.com/premium_photo-1661770191552-90e12a9c41aa?q=80&w=1170&?auto=format&fit=crop&w=800&q=80" alt="Pão de centeio escuro" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão de Centeio</h3>
                     <p class="text-gray-600 mb-4">Pão de centeio robusto, com sabor intenso e textura consistente.</p>
                     <p class="font-bold text-amber-700">€3,00</p>
@@ -103,7 +103,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Pastel de Nata -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-right">
-                    <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484e0?auto=format&fit=crop&w=800&q=80" alt="Pastéis de nata frescos" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://images.unsplash.com/photo-1618250713296-ee011768e525?q=80&w=1974&?auto=format&fit=crop&w=800&q=80" alt="Pastéis de nata frescos" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pastel de Nata</h3>
                     <p class="text-gray-600 mb-4">Tartes de nata cremosas com massa folhada crocante e toque de canela.</p>
                     <p class="font-bold text-amber-700">€1,20 cada</p>
@@ -111,7 +111,7 @@
                 
                 <!-- Bolo de Arroz -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-up">
-                    <img src="https://images.unsplash.com/photo-1608198092931-c52b06f25f13?auto=format&fit=crop&w=800&q=80" alt="Bolos de arroz tradicionais" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://images.unsplash.com/photo-1675227977042-a572dac762be?q=80&w=880&?auto=format&fit=crop&w=800&q=80" alt="Bolos de arroz" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bolo de Arroz</h3>
                     <p class="text-gray-600 mb-4">Queques de farinha de arroz com textura leve e sabor delicado.</p>
                     <p class="font-bold text-amber-700">€1,00 cada</p>
@@ -119,7 +119,7 @@
                 
                 <!-- Bolo de Mel -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-left">
-                    <img src="https://images.unsplash.com/photo-1608198092931-c52b06f25f13?auto=format&fit=crop&w=800&q=80" alt="Bolo de mel algarvio" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://images.unsplash.com/photo-1713274786966-628fed3e41b0?q=80&w=1170&?auto=format&fit=crop&w=800&q=80" alt="Bolo de mel algarvio" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bolo de Mel</h3>
                     <p class="text-gray-600 mb-4">Bolo de mel do Algarve, enriquecido com mel local e amêndoas.</p>
                     <p class="font-bold text-amber-700">€3,50 (fatia)</p>
@@ -139,7 +139,7 @@
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
                 <!-- Bica -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-right">
-                    <img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=800&q=80" alt="Bica (expresso português)" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://images.unsplash.com/photo-1596952954116-da11f51715c3?q=80&w=1170&?auto=format&fit=crop&w=800&q=80" alt="Bica (expresso português)" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bica (Expresso)</h3>
                     <p class="text-gray-600 mb-4">Expresso intenso ao estilo português, feito com grãos selecionados.</p>
                     <p class="font-bold text-amber-700">€0,80</p>
@@ -147,17 +147,17 @@
                 
                 <!-- Galão -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-up">
-                    <img src="https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80" alt="Galão em copo alto" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <img src="https://plus.unsplash.com/premium_photo-1673545518720-1228e52894e2?q=80&w=687&?auto=format&fit=crop&w=800&q=80" alt="Galão em copo alto" class="w-full h-48 object-cover rounded-lg mb-4">
                     <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Galão</h3>
                     <p class="text-gray-600 mb-4">Café com leite servido em copo alto, perfeito para acompanhar um pastel.</p>
                     <p class="font-bold text-amber-700">€1,50</p>
                 </div>
                 
-                <!-- Sumo de Laranja -->
+                <!-- Sumo de Fruta -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md menu-item transition-slow p-6" data-aos="fade-left">
-                    <img src="https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80" alt="Sumo de laranja fresco" class="w-full h-48 object-cover rounded-lg mb-4">
-                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Sumo de Laranja</h3>
-                    <p class="text-gray-600 mb-4">Sumo natural de laranjas frescas do Algarve, espremidas na hora.</p>
+                    <img src="https://plus.unsplash.com/premium_photo-1676642588287-ad44c524d3b6?q=80&w=1171&?auto=format&fit=crop&w=800&q=80" alt="Sumos de frutas frescas" class="w-full h-48 object-cover rounded-lg mb-4">
+                    <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Sumo de Fruta</h3>
+                    <p class="text-gray-600 mb-4">Sumos naturais de frutas frescas do Algarve, espremidas na hora.</p>
                     <p class="font-bold text-amber-700">€2,00</p>
                 </div>
             </div>
@@ -204,7 +204,7 @@
             </div>
             
             <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                <p>&copy; 2023 Padaria Branco Quente. Todos os direitos reservados.</p>
+                <p>&copy; 2023 Padaria Deliciosa. Todos os direitos reservados.</p>
             </div>
         </div>
     </footer>
