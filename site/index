@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Padaria Branco Quente | Padaria Artesanal em Monchique</title>
+    <title>Padaria Deliciosa | Padaria Artesanal em Monchique</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -16,7 +16,7 @@
         }
         
         .hero-section {
-            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://images.unsplash.com/photo-1542831371-d531d36971e6?auto=format&fit=crop&w=1500&q=80');
+            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://images.unsplash.com/photo-1587241321921-91a834d6d191?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?');
             background-size: cover;
             background-position: center;
         }
@@ -109,7 +109,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Produto 1 -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md product-card transition-slow" data-aos="fade-up" data-aos-delay="100">
-                    <img src="https://images.unsplash.com/photo-1579634475289-33cf9a2a9f88?auto=format&fit=crop&w=1000&q=80" alt="Pão rústico tradicional" class="w-full h-48 object-cover">
+                    <img src="https://https://plus.unsplash.com/premium_photo-1700767185782-47a987a495df?q=80&w=1169&auto=format&fit=crop&w=1200&q=80" alt="Pão rústico tradicional" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão de Monchique</h3>
                         <p class="text-gray-600 mb-4">O nosso pão mais emblemático, com crosta estaladiça e miolo macio, cozido em forno a lenha.</p>
@@ -124,7 +124,7 @@
                 
                 <!-- Produto 2 -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md product-card transition-slow" data-aos="fade-up" data-aos-delay="200">
-                    <img src="https://images.unsplash.com/photo-1608198093002-ad4e005484e0?auto=format&fit=crop&w=1000&q=80" alt="Pastéis de nata frescos" class="w-full h-48 object-cover">
+                    <img src="https://images.unsplash.com/photo-1591107576521-87091dc07797?q=80&w=1170&?auto=format&fit=crop&w=1200&q=80" alt="Pastéis de nata frescos" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pastel de Nata</h3>
                         <p class="text-gray-600 mb-4">Deliciosas tartes de nata com massa folhada crocante e polvilhadas com canela.</p>
@@ -139,7 +139,7 @@
                 
                 <!-- Produto 3 -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md product-card transition-slow" data-aos="fade-up" data-aos-delay="300">
-                    <img src="https://images.unsplash.com/photo-1608198092931-c52b06f25f13?auto=format&fit=crop&w=1000&q=80" alt="Bolo de mel tradicional" class="w-full h-48 object-cover">
+                    <img src="https://images.unsplash.com/photo-1712725214797-38956dc3f091?q=80&w=709&?auto=format&fit=crop&w=1200&q=80" alt="Bolo de mel tradicional" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bolo de Mel</h3>
                         <p class="text-gray-600 mb-4">Bolo tradicional de mel do Algarve, enriquecido com amêndoas locais.</p>
@@ -213,7 +213,7 @@
             </div>
             
             <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-                <p>&copy; 2023 Padaria Branco Quente. Todos os direitos reservados.</p>
+                <p>&copy; 2023 Padaia Deliciosa. Todos os direitos reservados.</p>
             </div>
         </div>
     </footer>
