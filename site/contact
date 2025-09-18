@@ -25,7 +25,7 @@
         }
         
         .contact-hero {
-            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://images.unsplash.com/photo-1560427183-4efd29c38997?q=80&w=2070&?auto=format&fit=crop&w=1920&q=80');
+            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://images.unsplash.com/photo-1560427183-4efd29c38997?q=80&w=2070&auto=format&fit=crop&w=1920&q=80');
             background-size: cover;
             background-position: center;
         }
