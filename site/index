@@ -16,7 +16,7 @@
         }
         
         .hero-section {
-            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://images.unsplash.com/photo-1587241321921-91a834d6d191?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D?');
+            background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('https://images.unsplash.com/photo-1567752588693-ad10a647c5a3?q=80&w=1460&auto=format&fit=crop&w=1920&q=80');
             background-size: cover;
             background-position: center;
         }
@@ -124,7 +124,7 @@
                 
                 <!-- Produto 2 -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md product-card transition-slow" data-aos="fade-up" data-aos-delay="200">
-                    <img src="https://images.unsplash.com/photo-1591107576521-87091dc07797?q=80&w=1170&?auto=format&fit=crop&w=1200&q=80" alt="Pastéis de nata frescos" class="w-full h-48 object-cover">
+                    <img src="https://images.unsplash.com/photo-1591107576521-87091dc07797?q=80&w=1170&auto=format&fit=crop&w=1200&q=80" alt="Pastéis de nata frescos" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pastel de Nata</h3>
                         <p class="text-gray-600 mb-4">Deliciosas tartes de nata com massa folhada crocante e polvilhadas com canela.</p>
@@ -139,7 +139,7 @@
                 
                 <!-- Produto 3 -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md product-card transition-slow" data-aos="fade-up" data-aos-delay="300">
-                    <img src="https://images.unsplash.com/photo-1712725214797-38956dc3f091?q=80&w=709&?auto=format&fit=crop&w=1200&q=80" alt="Bolo de mel tradicional" class="w-full h-48 object-cover">
+                    <img src="https://images.unsplash.com/photo-1712725214797-38956dc3f091?q=80&w=709&auto=format&fit=crop&w=1200&q=80" alt="Bolo de mel tradicional" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Bolo de Mel</h3>
                         <p class="text-gray-600 mb-4">Bolo tradicional de mel do Algarve, enriquecido com amêndoas locais.</p>
