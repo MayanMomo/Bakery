@@ -109,7 +109,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Produto 1 -->
                 <div class="bg-white rounded-lg overflow-hidden shadow-md product-card transition-slow" data-aos="fade-up" data-aos-delay="100">
-                    <img src="https://https://plus.unsplash.com/premium_photo-1700767185782-47a987a495df?q=80&w=1169&auto=format&fit=crop&w=1200&q=80" alt="Pão rústico tradicional" class="w-full h-48 object-cover">
+                    <img src="https://plus.unsplash.com/premium_photo-1723532442070-75789631e93a?auto=format&fit=crop&w=1200&q=80" alt="Pão rústico tradicional" class="w-full h-48 object-cover">
                     <div class="p-6">
                         <h3 class="playfair text-xl font-bold text-amber-800 mb-2">Pão de Monchique</h3>
                         <p class="text-gray-600 mb-4">O nosso pão mais emblemático, com crosta estaladiça e miolo macio, cozido em forno a lenha.</p>
